@@ -1,0 +1,16 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "open-cli public/index.html && node-sass --watch public/style/style.scss public/style/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.3",
+    "open-cli": "^7.0.1"
+  }
+}

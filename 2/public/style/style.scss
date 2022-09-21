@@ -1,0 +1,12 @@
+section {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  background-color: cadetblue;
+  div {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+  }
+}
